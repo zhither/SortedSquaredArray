@@ -1,0 +1,14 @@
+{
+  "name": "sortedsquaredarray",
+  "version": "1.0.0",
+  "description": "technical challenge",
+  "main": "sortedFunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
